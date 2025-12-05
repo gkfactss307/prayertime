@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://gkfactss307.github.io/prayertime/sitemap.xml
